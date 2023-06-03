@@ -19,7 +19,7 @@
   "author": "Reyganz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/inirey/RESTAPI/issues"
+    "url": "https://github.com/lakshanxyz/RESTAPI/issues"
   },
   "dependencies": {
     "axios": "^0.21.1",
